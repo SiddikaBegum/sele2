@@ -27,6 +27,7 @@ public class Amazon {
 		boolean all = p.removeAll(l);
 		System.out.println(all);
 		System.out.println(1);
+		System.out.println(2);
 		
 		
 		
